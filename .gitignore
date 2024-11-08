@@ -1,1 +1,12 @@
+/.project
+/.classpath
+/.settings/
+/bin/
+/*iml
 /target/
+/test-output
+/screenshots/
+/.vscode/
+/*.code-workspace
+/.idea/
+/node_modules/
